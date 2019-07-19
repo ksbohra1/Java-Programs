@@ -1,10 +1,10 @@
 class Sun {
 public static void main(String[] args){
-int a,,c,d;
+int a,b,c,d;
 a=50;
-=20;
+b=20;
 c=30;
 d=a+b+c;
-System.out.println(The sum of three values = " +d);
+System.out.println("The sum of three values = " +d);
 }
 }
